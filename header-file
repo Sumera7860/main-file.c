@@ -1,0 +1,12 @@
+#ifndef _HEADER_H
+#define _HEADER_H
+int verification(char*,int);
+int product_verification(int,int);
+void create_inventory();
+void display_inventory();
+void update_inventory();
+void delete_inventory();
+void display_sales();
+void create_sales();
+
+#endif
